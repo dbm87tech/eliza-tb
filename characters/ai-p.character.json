@@ -2,7 +2,7 @@
     "name": "Ai-p",
     "plugins": [],
     "clients": ["discord"],
-    "modelProvider": "openai",
+    "modelProvider": "ollama",
     "settings": {
         "secrets": {},
         "voice": {
